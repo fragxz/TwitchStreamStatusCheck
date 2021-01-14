@@ -1,6 +1,3 @@
-# TWITCH STREAM STATUS CHECKER
-CHECK IF A STREAM IS ON / OFF
-
 # DEMO
 On the following [Website](https://twitch-stream-status-checker.fragxz.de/) you will find a Demo, where you will find a few Streamer and their current online status. They are dynamic and change according to their current live status.
 
